@@ -14,9 +14,13 @@ background-color: rgb(204, 204, 204)
 }
 #d{
 	list-style-type:none;
+	text-decoration-line:none;
 }
 .music{
 	background-color:rgb(255,255,255);
 	padding:20px;
 	border-radius:20px;
+}
+#eg-3{
+	text-align:center;
 }
