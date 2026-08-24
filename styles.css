@@ -14,7 +14,6 @@ background-color: rgb(204, 204, 204)
 }
 #d{
 	list-style-type:none;
-	text-decoration-line:none;
 }
 .music{
 	background-color:rgb(255,255,255);
@@ -23,4 +22,7 @@ background-color: rgb(204, 204, 204)
 }
 #eg-3{
 	text-align:center;
+}
+a{
+	text_decoration_line:none;
 }
